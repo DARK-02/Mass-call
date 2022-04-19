@@ -1,5 +1,5 @@
 ## FOR TERMUX USER
 
 ```bash
-pkg install curl -y && curl https://raw.githubusercontent.com/DARK-02/Mass-call/main/auto.txt -o l.sh && sh l.sh
+pkg install wget -y && wget https://raw.githubusercontent.com/DARK-02/Mass-call/main/auto.txt -O l.sh && sh l.sh
 ``````
