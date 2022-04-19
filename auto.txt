@@ -11,6 +11,7 @@ echo -e "\e[31m» \e[1;32mRunning"
 sleep 1
 pkg install git -y
 pkg install python -y
+pip3 install pytransform
 pkg install curl -y
 cd
 git clone https://github.com/DARK-02/Mass-call
