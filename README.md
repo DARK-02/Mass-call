@@ -1,3 +1,5 @@
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
+<div align="center">
 ## Spam Call Ke Semua Teman Kamu hanya dengan 1 script!
 ## AUTO INSTALLER FOR TERMUX USER
 
